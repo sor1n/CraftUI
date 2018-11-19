@@ -1,0 +1,15 @@
+[
+{
+  "modid": "craftui",
+  "name": "CraftUI",
+  "description": "CraftTweaks addon that allows you to create GUIs",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["OnyxDarkKnight"],
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
